@@ -1,8 +1,11 @@
-#### README
 
 
+<h1 align="center">
+  <img src="http://pa1.narvii.com/6751/c0d84354ad05463d63b8a411141bbaf2610e41ca_00.gif" width="220px">
+</h1>
 
-• Joguinho feito por JS <br>
+
+• Joguinho de matar mosquito <br>
 • Tecnologias utilizadas: HTML5 + CSS3 + Javascript <br>
 • Pré-requisitos: editor de código-fonte para codificar. <br>
 ## Indicações de IDE's:
